@@ -106,4 +106,4 @@ select earth_distance(
 ### Types
 
 - [JsonTypes](https://github.com/vladmihalcea/hibernate-types)
-- [UserType](
+- [UserType](https://docs.jboss.org/hibernate/orm/3.5/api/org/hibernate/usertype/UserType.html)
